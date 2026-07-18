@@ -10,7 +10,7 @@ export default function Header() {
               <path d="M13 2L3 14h7l-1 8 11-13h-7l0-7z" fill="#04141a" />
             </svg>
           </div>
-          <span className="font-display font-semibold text-lg tracking-tight text-[#e7f5f3]">Current</span>
+          <span className="font-display font-semibold text-lg tracking-tight text-[#e7f5f3]">ClinicForce</span>
         </div>
 
         <nav className="hidden md:flex items-center gap-8 text-sm text-[var(--muted)]">
